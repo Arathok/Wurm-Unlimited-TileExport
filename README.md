@@ -1,6 +1,8 @@
 # Wurm-Unlimited-TileExport
 Exports a selected Area of tiles into a .MAP file which can be imported into Warlanders DeedPlanner
 
+----THIS IS A SERVER MOD!---------
+
 1. Create a build Marker
 2. Activate the Build Marker
 3. Right click the Build Marker and select a survey area size that you want to export. The numbers are the Radius of tiles around the Player. so 5 would be 11x11
@@ -9,6 +11,10 @@ Exports a selected Area of tiles into a .MAP file which can be imported into War
 6. Sometimes it takes a while for the save window to open if you hit the button more than once multiple save windows are going to open just close them and you are good.
 
 German Translation:
+
+
+----DIES IST EINE SERVER MOD!---------
+
 Exportiert eine Auswahl an Wurm Tiles im Radius um den Spieler als .Map datei die dann im DeedPlanner von Warlander geöffnet werden kann.
 
 1. Bau dir einen "Build Marker"
