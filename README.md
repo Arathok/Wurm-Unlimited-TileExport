@@ -24,3 +24,7 @@ Exportiert eine Auswahl an Wurm Tiles im Radius um den Spieler als .Map datei di
 5. Drücke auf "export" um eine .Map Datei an einem Ort deiner Wahl anzulegen.
 6. Manchmal dauert es ein wenig bis sich das Exportfenster öffnet. Wenn du den Button mehrmals geklickt hast werden sich mehrere Speicherfenster öffnen. Schließe dann einfach
    die, die zu viel sind.
+
+![1](https://user-images.githubusercontent.com/36503011/157711016-26764a94-ea00-40f6-8762-a7542d1a4e23.jpg)
+
+![2](https://user-images.githubusercontent.com/36503011/157711046-260ded76-0f00-4b44-9965-14d7f55b6aac.jpg)
