@@ -16,6 +16,13 @@ public class TileExport implements WurmServerMod, Initable, PreInitable, Configu
         @Override
         public void configure(Properties properties) {
 
+            Config.value1 = Integer.parseInt(properties.getProperty("Value1", "5"));
+            Config.value2 = Integer.parseInt(properties.getProperty("Value2", "10"));
+            Config.value3 = Integer.parseInt(properties.getProperty("Value3", "15"));
+            Config.value4 = Integer.parseInt(properties.getProperty("Value4", "20"));
+            Config.value5 = Integer.parseInt(properties.getProperty("Value5", "25"));
+            Config.value6 = Integer.parseInt(properties.getProperty("Value6", "50"));
+
 
         }
 
